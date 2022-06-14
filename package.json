@@ -8,10 +8,8 @@
       "npm": "6.14.5"
    },
    "scripts": {
-      "start": "npm run build && node --inspect ./build/src/index.js",
-      "dev": "ts-node-dev ./src/index.ts",
-      "build": "clear && echo \"Transpiling files...\" && tsc && echo \"Done!\" ",
-      "test": "jest"
+      "start": "tsc && node ./build/index.js",
+      "dev": "ts-node-dev ./src/index.ts"
    },
    "keywords": [],
    "author": "",
