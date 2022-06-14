@@ -29,6 +29,8 @@
       * 9. Descurtir Post
       * 10. Comentar Post
 
+  * [Imagens](#imagens)
+
 <h2 id="sobre">Exercícios da Semana</h2>
 
 Essa semana, mais um Freela surgiu. Um jovem empreendedor teve uma ideia revolucionária que parece ter dado certo, mas está precisando de uma força para deixar o backend redondo. Ele já tem um time cuidando do Frontend, e você irá cuidar do backend - com bastante atenção à alta complexidade que a ideia que ele teve requer. O Astrodev, já famoso pela qualidade das entregas de seu time de programadores, foi contatado e repassou a tarefa a você. Segue o email enviado por ele:
@@ -1109,4 +1111,22 @@ amityRouter.get("/feed/:idUser", amityController.feedAmity);
         
         Recebendo o id do post e mensagem do comentário, o endpoint deve funcionar sem problemas. Um usuário pode, se quiser, comentar mais de uma vez o mesmo post. 
         
+<h4 align="right"><a href="#topo">Topo</a></h4>
+
+<h2 id="imagens">Imagens</h2>
+
+![image](https://user-images.githubusercontent.com/89301596/173266461-08e5e224-0c52-4f1c-b3ff-2b7f3d21ca12.png)
+
+<h4 align="right"><a href="#topo">Topo</a></h4>
+
+![image](https://user-images.githubusercontent.com/89301596/173266563-a73fdca9-48b0-459b-9e0c-01294b7e71e2.png)
+
+<h4 align="right"><a href="#topo">Topo</a></h4>
+
+![image](https://user-images.githubusercontent.com/89301596/173266642-9e50682a-5167-44ca-948b-bda375444af4.png)
+
+<h4 align="right"><a href="#topo">Topo</a></h4>
+
+![image](https://user-images.githubusercontent.com/89301596/173266701-390dcf88-5e15-40fa-be21-a6ff92a91ddf.png)
+
 <h4 align="right"><a href="#topo">Topo</a></h4>
